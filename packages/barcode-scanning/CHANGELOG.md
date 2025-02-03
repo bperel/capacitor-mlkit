@@ -1,5 +1,15 @@
 # Changelog
 
+## 7.1.0
+
+### Minor Changes
+
+- [`29ee50aa15a1a853ca558e1764b880370c3d304d`](https://github.com/capawesome-team/capacitor-mlkit/commit/29ee50aa15a1a853ca558e1764b880370c3d304d) ([#238](https://github.com/capawesome-team/capacitor-mlkit/pull/238)): feat: add web support
+
+### Patch Changes
+
+- [`958dfeda1bfea6116804d9fc3d921c811ec3c6eb`](https://github.com/capawesome-team/capacitor-mlkit/commit/958dfeda1bfea6116804d9fc3d921c811ec3c6eb) ([#240](https://github.com/capawesome-team/capacitor-mlkit/pull/240)): fix(ios): `resolution` option was ignored
+
 ## 7.0.0
 
 ### Major Changes
